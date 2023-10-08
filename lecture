@@ -15,6 +15,11 @@ Many benefits
 - Improce reliability
 - Provices confidence
 
-What is TDD? 
+Section 3 What is TDD? 
 A software development practice
 코드를 쓰고 unit test를 만드는건 잘못된 방식이다 unit test를 먼저 쓰고 그에 맞게 코드를 써야한다 이게 TDD Process 다
+
+Section 4 Systen Setup
+1. VS code
+2. Docker Desktop
+3. Git-SCM
