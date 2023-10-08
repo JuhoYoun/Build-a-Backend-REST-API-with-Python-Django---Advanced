@@ -1,0 +1,19 @@
+Section2 App Design
+19 API End Points
+User Authentication
+Browsable Admin Interface (Django Admin)
+Browsable API (Swagger)
+
+Test Driven Development
+Code wihch tests code
+- Sets up coditions / inputs
+- Runs a piece of code
+- Checks outputs with "assertions"
+Many benefits
+- Ensure code runs as expected
+- Catches bugs
+- Improce reliability
+- Provices confidence
+
+What is TDD? 
+코드를 쓰고 unit test를 만드는건 잘못된 방식이다 unit test를 먼저 쓰고 그에 맞게 코드를 써야한다 이게 TDD Process 다
